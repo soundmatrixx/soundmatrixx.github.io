@@ -1,0 +1,66 @@
+title = "Soundmatrixx"
+baseURL = "soundmatrixx.github.io"
+tags = ["portfolio", "artist management", "band management", "independent music", "bangalore", "events", "song writing"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+  tagline = "Soundmatrixx"
+  author = "K K"
+  description = "Artist/Band Management, Song Writing, Events,"
+  logoBig = "/images/logo.png"
+  logoSmall = "/images/logo.png"
+  favicon = "/images/favicon.ico"
+  opengraphImage = "/images/logo-open.png"
+  email = "soundmatrixx.info@gmail.com"
+  googleTagManger = ""
+  customCSS = false
+
+  # Social media links in footer
+  #twitter = ""
+  #linkedin = "tomanistor"
+  #github = "tomanistor"
+  instagram = "soundmatrixx"
+
+  # Copyright and theme author credit in footer
+  copyright = true
+  credit = false
+
+  # Cache busting of static resources (additional set up required)
+  cacheBustCSS = false
+  cacheBustJS = false
+
+  # Code highlighting with highlight.js
+  highlightJS = true
+  highlightJSStyle = "" # For custom highlight.js styles, add your /path/to/styles/default.css
+  highlightJSScript = "" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
+
+  # Choose either Formspree contact form or Basin contact form
+  ajaxFormspree = false
+  ajaxFormspreeGold = false
+  ajaxBasin = "https://usebasin.com/f/0eae7044d4c2"
+
+  # Lazy loading with lazysizes
+  lazyloading = true
+
+[[menu.main]]
+  name = "About"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Work"
+  url  = "/#work"
+  weight = 2
+[[menu.main]]
+  name = "Blog"
+  url  = "/#blog"
+  weight = 3
+[[menu.main]]
+  name = "Contact"
+  url  = "/#contact"
+  weight = 4

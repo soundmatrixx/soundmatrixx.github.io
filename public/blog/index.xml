@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Soundmatrixx</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Soundmatrixx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Music Speaks</title>
+      <link>//localhost:1313/blog/when-music-speaks/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/when-music-speaks/</guid>
+      <description>An artistic expression in music is what gives life to frequencies. A particular arrangement of notes and words can make you long for something that doesn’t even exist. It can make you cry for someone who was never part of your world. It can make you smile for reasons you can’t explain.&#xA;Unlike looking at a painting or reading a novel, you don’t need to understand music to feel it. You don’t need context or translation.</description>
+    </item>
+  </channel>
+</rss>
