@@ -1,5 +1,5 @@
 title = "Soundmatrixx"
-baseURL = "soundmatrixx.com"
+baseURL = "https://soundmatrixx.com"
 tags = ["portfolio", "artist management", "band management", "independent music", "bangalore", "events", "song writing"]
 languageCode = "en-US"
 config = "config.toml"
