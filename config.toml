@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 [Params]
   tagline = "Soundmatrixx"
   author = "K K"
-  description = "Artist/Band Management, Song Writing, Events,"
+  description = "Artist/Band Management, Song Writing, Events, Music Equipment"
   logoBig = "/images/logo.png"
   logoSmall = "/images/logo.png"
   favicon = "/images/favicon.ico"
@@ -58,7 +58,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   weight = 2
 [[menu.main]]
   name = "Blog"
-  url  = "/#blog"
+  url  = "https://soundmatrixx.blogspot.com/2025/04/an-artistic-expression-in-music-is-what.html"
   weight = 3
 [[menu.main]]
   name = "Contact"
