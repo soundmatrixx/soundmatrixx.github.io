@@ -16,4 +16,5 @@ Music. Events. Deals.
 Showcase your sound. Discover fresh talent. Plug into the culture.
 This is where your music journey finds its stage.
 
+Read our blogs and writings - [Blog](https://soundmatrixx.blogspot.com/)
 Reach us at - @soundmatrixx on instagram.
